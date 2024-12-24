@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vec2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vec2",
+  "parent":{
+    "name":"Yarx",
+    "path":"Yarx.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

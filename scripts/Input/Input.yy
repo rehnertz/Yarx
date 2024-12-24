@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Input",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Input",
+  "parent":{
+    "name":"Yarx",
+    "path":"Yarx.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

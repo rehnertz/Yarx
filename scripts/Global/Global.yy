@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Global",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Global",
+  "parent":{
+    "name":"Yarx",
+    "path":"Yarx.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
